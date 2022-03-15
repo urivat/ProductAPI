@@ -46,6 +46,14 @@
 			"response": []
 		},
 		{
+			"name": "Get_Product_By_Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
 			"name": "Delete_Product",
 			"request": {
 				"method": "GET",
